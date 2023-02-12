@@ -1,1 +1,1 @@
-making a landing page yay
+Odin Project Landing Page Project
